@@ -3,7 +3,7 @@
 MY MS (Data Science) Thesis Code Base - (k173004 FAST NUCES Karachi).
 ---------------------------------------------------------------------
 
-Datasets:
+## Datasets:
 
 AML dataset: Anti-money laundering dataset comprises of SAR (suspicious activity report) and Non-SAR transactions of the individuals in a financial institution accumulated for the period of 1 year.
     
@@ -15,7 +15,7 @@ Paysim: The dataset comprises of simulated mobile money transactions based real 
     
 CIFAR: This dataset consists of 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
 
-Experiments: 
+## Experiments: 
 
 The experiments are categorized into 3 types: 
 Cramer Rao Lower Bound, No Penalty and L2 penalty based on multiple batch settings e.g., 5 and 20 batches for each data-set. 
@@ -24,7 +24,7 @@ Cramer Rao Lower Bound Optimization is one of artifacts of the proposed model in
 
 The evaluation metrics used in this experimental setup is accuracy which is measured as correctly predicted to the total predictions in the dataset.
 
-Results:
+## Results:
 
 CRLBO outperforms other techniques on a tabular dataset in 20 batch setting by 18\%. This can be attributed to the high inter-batch variance present in the dataset. Thus it can be inferred that CRLBO retains maximum information on tabular datasets in high variant settings.
 

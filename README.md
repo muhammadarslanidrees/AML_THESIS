@@ -7,13 +7,13 @@ MY MS (Data Science) Thesis Code Base - (k173004 FAST NUCES Karachi).
 
 AML dataset: Anti-money laundering dataset comprises of SAR (suspicious activity report) and Non-SAR transactions of the individuals in a financial institution accumulated for the period of 1 year.
     
-Home Credit Default dataset: Home credit default contain the transactional and repayment history of the customers which are provided loan with no credit history.
+Home Credit Default dataset: Home credit default contain the transactional and repayment history of the customers which are provided loan with no credit history. (Ref: https://www.kaggle.com/c/home-credit-default-risk/data)
     
-Credit card fraud dataset: This dataset contain the fraudulent and non-fraudulent credit card transactions of all the customers for a period of one month which are European credit card holders.
+Credit card fraud dataset: This dataset contain the fraudulent and non-fraudulent credit card transactions of all the customers for a period of one month which are European credit card holders. (Ref: https://www.kaggle.com/mlg-ulb/creditcardfraud/version/3)
     
-Paysim: The dataset comprises of simulated mobile money transactions based real transactions extracted from one month of financial logs which consists of around 6 million transactions out of which 8312 transactions are labeled as fraud.
+Paysim: The dataset comprises of simulated mobile money transactions based real transactions extracted from one month of financial logs which consists of around 6 million transactions out of which 8312 transactions are labeled as fraud. (Ref: https://www.kaggle.com/ntnu-testimon/paysim1/version/1)
     
-CIFAR: This dataset consists of 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images.
+CIFAR: This dataset consists of 32x32 colour images in 10 classes, with 6000 images per class. There are 50000 training images and 10000 test images. (Ref: https://www.cs.toronto.edu/~kriz/cifar.html)
 
 ## Experiments: 
 

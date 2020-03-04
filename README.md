@@ -32,4 +32,5 @@ CRLBO outperforms other techniques by 19\% on high dimensional images in online 
 
 The inference obtained from this investigation is that in high volume settings, if the distribution of the data is similar then any state of the art technique could achieve comparable generalization however in case of varying distribution and high variance across batches, CRLBO  achieves best generalization by adjusting the weights in a way that it also retains the information of the previous batches which makes this technique work better over state of the art prevailing techniques. 
 
-
+## Preprint: 
+https://www.researchgate.net/publication/339165071_Sustaining_learning_under_density_shift_a_Big_Data_volume_to_velocity_reduction?channel=doi&linkId=5e423678299bf1cdb91f744e&showFulltext=true

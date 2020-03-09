@@ -1,6 +1,6 @@
 # ADDRESSING ANOMALY DETECTION IN HIGH VOLUME SETTING
 
-MY MS (Data Science) Thesis Code Base - (k173004 FAST NUCES Karachi).
+MS (Data Science) Thesis Code Base - (k173004 FAST NUCES Karachi).
 ---------------------------------------------------------------------
 
 ## Datasets:
